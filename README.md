@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/songulerdemguler/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/songulerdemguler/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/songulerdem/account" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/songulerdem/account" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@songulerdemguler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@songulerdemguler" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/songulerdemguler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="songulerdemguler" height="30" width="40" /></a>
+<a href="https://kaggle.com/songulerdem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="songulerdem" height="30" width="40" /></a>
+<a href="https://medium.com/@songulerdemguler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@songulerdemguler" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
